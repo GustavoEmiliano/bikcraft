@@ -43,7 +43,7 @@
     content: "”";
 }
 
-@media(max-width: 800px) {
+@media (max-width: 800px) {
     .depoimento {
         grid-template-columns: 1fr;
         text-align: center;

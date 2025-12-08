@@ -65,7 +65,7 @@
     }
 }
 
-@media(max-width: 800px) {
+@media (max-width: 800px) {
     .font-1-xxl {
         font-size: 2rem;
     }
