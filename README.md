@@ -116,7 +116,10 @@ If you want to view the project prototype, just access the link below:
 
 ## **💻 Deploy**
 
-**Link**:
+This project was deployed on **Vercel**, a free hosting platform widely used for front-end applications.  
+Due to the limitations of the free hosting environment, **server-side email sending is not supported**, which means the contact form is not able to send emails in the deployed version.
+
+<a href="https://vercel.com/gustavo-emilianos-projects/bikcraft">View the deployed application</a>
 
 ---
 
