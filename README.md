@@ -46,16 +46,20 @@ The project structure was organized to facilitate maintenance, scalability, and 
 
 ```text
 bikcraft/
-├── bicicletas/        # Pages related to bicycle models
-├── css/               # Style files (CSS)
-├── img/               # Images and project assets
-├── js/                # JavaScript scripts
-├── index.html         # Home page
-├── bicicletas.html    # Bicycle listing/details page
-├── contato.html       # Contact page
-├── orcamento.html     # Budget/quote page
-├── seguros.html       # Insurance page
-└── termos.html        # Terms and conditions page
+├── assets/             # Images not directly related to the project
+├── certificado/        # PDF certificate files
+├── bicicletas/         # Pages related to bicycle models
+├── css/                # Style files (CSS)
+├── img/                # Images and project assets
+├── js/                 # JavaScript scripts
+├── index.html          # Home page
+├── bicicletas.html     # Bicycle listing/details page
+├── contato.html        # Contact page
+├── orcamento.html      # Budget/quote page
+├── seguros.html        # Insurance page
+├── termos.html         # Terms and conditions page
+├── LICENSE.txt         # MIT License
+└── README.md           # Project information
 ```
 
 ## **🛠️ Technologies Used**
@@ -151,6 +155,20 @@ Licensed under the [MIT License](./LICENSE.txt)
   <a href="https://github.com/GustavoEmiliano">
     <img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+
+## **🎓 Course Certificate**
+
+This project was developed as part of the **HTML and CSS course by <a href="https://www.origamid.com/">Origamid</a>**, which provides a solid foundation in modern front-end development.
+
+The course certificate validates the completion of all proposed modules, covering essential topics such as semantic HTML, responsive layouts, CSS architecture, and best practices for building real-world web interfaces.
+
+<div align="center">
+  <a href="http://origamid.com/certificate/db69f69b" target="_blank">
+    <img src="https://github.com/GustavoEmiliano/bikcraft/blob/main/assets/certificado.png" 
+         alt="Origamid HTML and CSS Course Certificate"
+         width="700">
+  </a>
+</div>
 
 <div align="center"><br>
   Thank you for visiting the Bikcraft repository!
