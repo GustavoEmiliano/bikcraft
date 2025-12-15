@@ -122,7 +122,7 @@ If you want to view the project prototype, just access the link below:
 
 ## **📝 License**
 
-Licensed under the [MIT License](./LICENSE)
+Licensed under the [MIT License](./LICENSE.txt)
 
 ---
 
