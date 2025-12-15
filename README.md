@@ -164,7 +164,7 @@ The course certificate validates the completion of all proposed modules, coverin
 
 <div align="center">
   <a href="http://origamid.com/certificate/db69f69b" target="_blank">
-    <img src="" 
+    <img src="https://github.com/GustavoEmiliano/bikcraft/blob/main/assets/certificado.png" 
          alt="Origamid HTML and CSS Course Certificate"
          width="700">
   </a>
